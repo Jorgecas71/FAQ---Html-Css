@@ -1,0 +1,14 @@
+@import "reset.css";
+@import "header.css";
+
+body {
+        display: flex;
+        flex-direction: row;
+        font-family: 'open sans';
+        color: #4d4e53;
+        line-height: 1.5;
+        background-color: white;
+        margin: 0;
+        padding: 0;
+          }
+       
